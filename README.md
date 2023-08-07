@@ -1,7 +1,7 @@
 # SimplicityX
 
 # What is it?
-An Open Source 2D/3D Game Engine Written in C! This game engine is a library and not an executable.
+An Open Source 2D/3D Game Engine Written in C! This game engine is a library and not an executable. If you looking an editor, please take a look at [SimplicityXEditor](https://github.com/SimplicityXStudios/SimplicityXEditor)
 
 # Still in Progress
 
